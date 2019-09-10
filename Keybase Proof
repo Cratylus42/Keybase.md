@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am cratylus42 on github.
+  * I am cratylus (https://keybase.io/cratylus) on keybase.
+  * I have a public key ASB7yDjirsoYfJyH6sL8yWGEyYSfgqAU0Nx0L63ssvSlhAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207bc838e2aeca187c9c87eac2fcc96184c9849f82a014d0dc742fadecb2f4a5840a",
+      "host": "keybase.io",
+      "kid": "01207bc838e2aeca187c9c87eac2fcc96184c9849f82a014d0dc742fadecb2f4a5840a",
+      "uid": "efa0d4e6ad6f9fbc850135998c5ee819",
+      "username": "cratylus"
+    },
+    "merkle_root": {
+      "ctime": 1568092399,
+      "hash": "fd10b9af45267b346e11a338412a0c3e4b5bc7c87e1c47aceb9a14e107aed1925ef924a7bada4c2defdc2df0d84ea7cb34567a8b5f465325816bc22356ce4357",
+      "hash_meta": "67aae16f7b72f7c928bbb5f278c522273e06ffdac789c59a192ec5515e9b78f5",
+      "seqno": 6317687
+    },
+    "service": {
+      "entropy": "rl0QjiUgSFlCQlzuc6lnvOMS",
+      "name": "github",
+      "username": "cratylus42"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568092406,
+  "expire_in": 504576000,
+  "prev": "612c6008b6f1df932a50c787cf3a89c3b1a3b4c1675e125ee928173e827a5764",
+  "seqno": 7,
+  "tag": "signature"
+}
+```
+
+with the key [ASB7yDjirsoYfJyH6sL8yWGEyYSfgqAU0Nx0L63ssvSlhAo](https://keybase.io/cratylus), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEge8g44q7KGHych+rC/MlhhMmEn4KgFNDcdC+t7LL0pYQKp3BheWxvYWTESpcCB8QgYSxgCLbx35MqUMeHzzqJw7GjtMFnXhJe6SgXPoJ6V2TEIC4R/NZ+xYrBfrF0Hipzg7EbBwL7HZtaVzT8706+QKKtAgHCo3NpZ8RARVTlDbFttiXu+YxFHe9qv0IcYb9TdlIHf1BN+8E/o8kSYjk0DNgocgOtCvcB+9vkueISWtgyujFXLcGWPxyjAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFYBiqfdJ0jcnhU9omaygjB1yGcXaT5gOek29pcK4I0do3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/cratylus
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id cratylus
+```
